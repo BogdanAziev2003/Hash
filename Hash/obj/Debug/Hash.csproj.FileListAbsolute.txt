@@ -1,0 +1,15 @@
+C:\Users\neazi\source\repos\Hash\Hash\bin\Debug\Hash.exe.config
+C:\Users\neazi\source\repos\Hash\Hash\bin\Debug\Hash.exe
+C:\Users\neazi\source\repos\Hash\Hash\bin\Debug\Hash.pdb
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.csproj.AssemblyReference.cache
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.csproj.SuggestedBindingRedirects.cache
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.Form1.resources
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.Properties.Resources.resources
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.csproj.GenerateResource.cache
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.csproj.CoreCompileInputs.cache
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.exe
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.pdb
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.Info.resources
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.MD5Form.resources
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.CRC32Form.resources
+C:\Users\neazi\source\repos\Hash\Hash\obj\Debug\Hash.SHA3Form.resources
